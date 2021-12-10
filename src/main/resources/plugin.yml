@@ -1,0 +1,8 @@
+name: BeledarianCustomMusic
+version: 1.0
+main: beledarian.custommusic.main.Main
+api-version: 1.18
+authors: [ Beledarian ]
+description: Minecraft Soccer by Beledarian
+commands:
+  music:
